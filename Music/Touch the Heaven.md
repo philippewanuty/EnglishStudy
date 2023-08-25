@@ -1,41 +1,44 @@
 **How I live for the moments**
+
 *como eu vivo os momentos*
 
 **Where I'm still in Your presence**
-*onde ainda estou em sua presenÁa*
+
+*onde ainda estou em sua presen√ßa*
 
 **All the noise dies down**
+
 *todos os barulhos desaparecem*
 
 Lord speak to me now
 -Senhor fale comigo agora
 
 You have all my attention
--VocÍ tem toda a minha atenÁ„o
+-Voc–ñ tem toda a minha aten—É—Åo
 
 I will linger and listen
 -Eu vou permanecer e escutar
 
 I can't miss a thing
--N„o posso perder nada
+-N—Åo posso perder nada
 
 Lord I know my heart wants more of You
--Senhor eu sei meu coraÁ„o quer mais de vocÍ
+-Senhor eu sei meu cora—É—Åo quer mais de voc–ñ
 
 My heart wants something new
--Meu coraÁ„o quer algo novo
+-Meu cora—É—Åo quer algo novo
 
 So I surrender all
--Ent„o eu entrego tudo
+-Ent—Åo eu entrego tudo
 
 All I want is to live within Your love
--tudo que eu quero È viver dentro do seu amor
+-tudo que eu quero –∂ viver dentro do seu amor
 
 Be undone by who You are
--ser desfeito por quem vocÍ È
+-ser desfeito por quem voc–ñ –∂
 
 My desire is to know You deeper
--Meu desejo È te conhecer profundamente
+-Meu desejo –∂ te conhecer profundamente
 
 Lord I will open up again
 -Senhor eu vou me abrir de novo
@@ -44,47 +47,47 @@ Throw my fears into the wind
 -Jogar meus medos no vento
 
 I am desperate for a touch of heaven
--Estou desesperado pelo toque do cÈu
+-Estou desesperado pelo toque do c–∂u
 
 oh - oh
 
 You're the fire in the morning
--VocÍ È o fogo na manh„
+-Voc–ñ –∂ o fogo na manh—Å
 
 You're the cool in the evening
-- vocÍ È o frio na noite
+- voc–ñ –∂ o frio na noite
 
 The breath in my soul
--A respiraÁ„o em minha alma
+-A respira—É—Åo em minha alma
 
 All the life in my bones
 -toda a vida nos meus ossos
 
 There is no hesitation
--n„o h· hesitaÁ„o
+-n—Åo h—Ä hesita—É—Åo
 
 In Your love and affection
 - em seu amor e carinho
 It's the sweetest of all
--È o mais doce de todos
+-–∂ o mais doce de todos
 
 Lord I know my heart wants more of You
--Senhor eu sei meu coraÁ„o quer mais de vocÍ
+-Senhor eu sei meu cora√ß√£o quer mais de voc√™
 
 My heart wants something new
--Meu coraÁ„o quer algo novo
+-Meu cora—É—Åo quer algo novo
 
 So I surrender all
--Ent„o eu entrego tudo
+-Ent—Åo eu entrego tudo
 
 All I want is to live within Your love
--tudo que eu quero È viver dentro do seu amor
+-tudo que eu quero –∂ viver dentro do seu amor
 
 Be undone by who You are
--ser desfeito por quem vocÍ È
+-ser desfeito por quem voc–ñ –∂
 
 My desire is to know You deeper
--Meu desejo È te conhecer profundamente
+-Meu desejo –∂ te conhecer profundamente
 
 Lord I will open up again
 -Senhor eu vou me abrir de novo
@@ -93,18 +96,18 @@ Throw my fears into the wind
 -Jogar meus medos no vento
 
 I am desperate for a touch of heaven
--Estou desesperado pelo toque do cÈu
+-Estou desesperado pelo toque do c–∂u
 
 
 
 I open up my heart to You
-- eu abro o coraÁ„o pra vocÍ
+- eu abro o cora—É—Åo pra voc–ñ
 
 I open up my heart to You now     3x
-- eu abro o coraÁ„o pra vocÍ agora
+- eu abro o cora—É—Åo pra voc–ñ agora
 
 So do what only You can
--ent„o faz o que sÛ voce pode
+-ent—Åo faz o que s–∑ voce pode
 
 Jesus have Your way in me now (come on)
 -Jesus tem o seu caminho em mim agora
@@ -112,13 +115,13 @@ Jesus have Your way in me now (come on)
 
 
 All I want is to live within Your love
--tudo que eu quero È viver dentro do seu amor
+-tudo que eu quero –∂ viver dentro do seu amor
 
 Be undone by who You are
--ser desfeito por quem vocÍ È
+-ser desfeito por quem voc–ñ –∂
 
 My desire is to know You deeper
--Meu desejo È te conhecer profundamente
+-Meu desejo –∂ te conhecer profundamente
 
 Lord I will open up again
 -Senhor eu vou me abrir de novo
@@ -127,7 +130,7 @@ Throw my fears into the wind
 -Jogar meus medos no vento
 
 I am desperate for a touch of heaven
--Estou desesperado pelo toque do cÈu
+-Estou desesperado pelo toque do c–∂u
 
 
 
@@ -139,18 +142,23 @@ I am desperate for a touch of heaven
 Substantivos:
 
 Moments: Momentos
-Presence: PresenÁa
-Noise: RuÌ≠do
+
+Presence: Presen—Éa
+
+Noise: Ru—å–ìdo
+
 Thing: Coisa
+
 Love: Amor
+
 Fire: Fogo
 Evening: Noite
-Breath: RespiraÁ„o
+Breath: Respira—É—Åo
 Soul: Alma
 Life: Vida
 Bones: Ossos
-Hesitation: HesitaÁ„o
-Affection: AfeiÁ„o
+Hesitation: Hesita—É—Åo
+Affection: Afei—É—Åo
 Voice: Voz
 Desire: Desejo
 Touch: Toque
@@ -169,7 +177,7 @@ Surrender: Render-se
 Be: Ser/Estar
 Undone: Desfeito
 Open: Abrir
-Throw: LanÁar
+Throw: Lan—Éar
 Do: Fazer
 Can: Poder
 Say: Dizer
@@ -179,30 +187,30 @@ New: Novo
 Deeper: Mais profundo
 Desperate: Desesperado
 
-AdvÈrbios:
+Adv–∂rbios:
 
 Still: Ainda
 Now: Agora
 Pronomes:
 
 I: Eu
-You: VocÍ
+You: Voc–ñ
 Your: Seu/sua
 Me: Meu/mim
 
-ConjugaÁıes:
+Conjuga—É—àes:
 
 And: E
-So: Ent„o, assim
+So: Ent—Åo, assim
 
-PreposiÁıes:
+Preposi—É—àes:
 
 Of: De
 Within: Dentro
-By: Por, atravÈs de
+By: Por, atrav–∂s de
 In: Em
 
-InterjeiÁıes:
+Interjei—É—àes:
 
 Oh: Ah, oh
 Yeah: Sim, yeah
@@ -213,11 +221,11 @@ Quantidade de palavras encontradas em cada classe gramatical:
 Substantivos: 17 palavras
 Verbos: 17 palavras
 Adjetivos: 3 palavras
-AdvÈrbios: 2 palavras
+Adv–∂rbios: 2 palavras
 Pronomes: 4 palavras
-ConjunÁıes: 2 palavras
-PreposiÁıes: 4 palavras
-InterjeiÁıes: 7 palavras
+Conjun—É—àes: 2 palavras
+Preposi—É—àes: 4 palavras
+Interjei—É—àes: 7 palavras
 
 
 
