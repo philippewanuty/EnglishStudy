@@ -6,7 +6,7 @@
 
 **How I live for the moments**
 
-como eu vivo os momentos*
+como eu vivo os momentos
 
 **Where I'm still in Your presence**
 
@@ -193,15 +193,12 @@ oh - oh
 *Jogar meus medos no vento*
 
 **I am desperate for a touch of heaven**
+
 *estou desesperado pelo toque do céu*
 
 
 
-
-
-
-
-#### Substantivos:
+### Substantivos:
 
 Moments: Momentos
 
@@ -239,7 +236,7 @@ Wind: Vento
 
 
 
-#### Verbos:
+### Verbos:
 
 Live: Viver
 
@@ -273,9 +270,7 @@ Can: Poder
 
 Say: Dizer
 
-
-
-#### Adjetivos:
+### Adjetivos:
 
 New: Novo
 
@@ -285,7 +280,7 @@ Desperate: Desesperado
 
 
 
-#### Advérbios:
+### Advérbios:
 
 Still: Ainda
 
@@ -293,7 +288,7 @@ Now: Agora
 
 
 
-#### Pronomes:
+### Pronomes:
 
 I: Eu
 
@@ -305,7 +300,7 @@ Me: Meu/mim
 
 
 
-#### Conjugações:
+### Conjugações:
 
 And: E
 
@@ -313,7 +308,7 @@ So: Então, assim
 
 
 
-#### Preposições:
+### Preposições:
 
 Of: De
 
@@ -325,7 +320,7 @@ In: Em
 
 
 
-#### Interjeições:
+### Interjeições:
 
 Oh: Ah, oh
 
@@ -357,7 +352,7 @@ Interjeições: 7 palavras
 
 
 
-#### frases:
+### frases:
 
 I love the moments when I can still feel Your presence.
 
