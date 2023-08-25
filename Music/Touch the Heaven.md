@@ -2,7 +2,7 @@
 
 ## David Funk 
 
-[Substantives](#substantivos)
+[Substantives](#substantivos) | [Verbs](#verbos) | [Adjectives](#adjetivos) | [Adverbs](#advérbios) |  [pronouns](#pronomes) | [conjugations](#conjugações) | [prepositions](#preposições)
 
 
 
