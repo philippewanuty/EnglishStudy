@@ -1,0 +1,9 @@
+seguimente cada palavra e separe por classe gramatical, me informando a quantidade de palavras encontradas em cada classe gramatical, me informe também a tradução de cada palavra em português nesta musica:
+
+
+
+
+
+
+
+separe todas as palavras por classe gramatical, e me informa a quantidade encontrada em cada classe nesta letra de música:   
