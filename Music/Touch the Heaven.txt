@@ -1,18 +1,156 @@
+How I live for the moments
+-como eu vivo os momentos
+
+Where I'm still in Your presence
+-onde ainda estou em sua presença
+
+All the noise dies down
+-todos os barulhos desaparecem
+
+Lord speak to me now
+-Senhor fale comigo agora
+
+You have all my attention
+-Você tem toda a minha atenção
+
+I will linger and listen
+-Eu vou permanecer e escutar
+
+I can't miss a thing
+-Não posso perder nada
+
+Lord I know my heart wants more of You
+-Senhor eu sei meu coração quer mais de você
+
+My heart wants something new
+-Meu coração quer algo novo
+
+So I surrender all
+-Então eu entrego tudo
+
+All I want is to live within Your love
+-tudo que eu quero é viver dentro do seu amor
+
+Be undone by who You are
+-ser desfeito por quem você é
+
+My desire is to know You deeper
+-Meu desejo é te conhecer profundamente
+
+Lord I will open up again
+-Senhor eu vou me abrir de novo
+
+Throw my fears into the wind
+-Jogar meus medos no vento
+
+I am desperate for a touch of heaven
+-Estou desesperado pelo toque do céu
+
+oh - oh
+
+You're the fire in the morning
+-Você é o fogo na manhã
+
+You're the cool in the evening
+- você é o frio na noite
+
+The breath in my soul
+-A respiração em minha alma
+
+All the life in my bones
+-toda a vida nos meus ossos
+
+There is no hesitation
+-não há hesitação
+
+In Your love and affection
+- em seu amor e carinho
+It's the sweetest of all
+-é o mais doce de todos
+
+Lord I know my heart wants more of You
+-Senhor eu sei meu coração quer mais de você
+
+My heart wants something new
+-Meu coração quer algo novo
+
+So I surrender all
+-Então eu entrego tudo
+
+All I want is to live within Your love
+-tudo que eu quero é viver dentro do seu amor
+
+Be undone by who You are
+-ser desfeito por quem você é
+
+My desire is to know You deeper
+-Meu desejo é te conhecer profundamente
+
+Lord I will open up again
+-Senhor eu vou me abrir de novo
+
+Throw my fears into the wind
+-Jogar meus medos no vento
+
+I am desperate for a touch of heaven
+-Estou desesperado pelo toque do céu
+
+
+
+I open up my heart to You
+- eu abro o coração pra você
+
+I open up my heart to You now     3x
+- eu abro o coração pra você agora
+
+So do what only You can
+-então faz o que só voce pode
+
+Jesus have Your way in me now (come on)
+-Jesus tem o seu caminho em mim agora
+
+
+
+All I want is to live within Your love
+-tudo que eu quero é viver dentro do seu amor
+
+Be undone by who You are
+-ser desfeito por quem você é
+
+My desire is to know You deeper
+-Meu desejo é te conhecer profundamente
+
+Lord I will open up again
+-Senhor eu vou me abrir de novo
+
+Throw my fears into the wind
+-Jogar meus medos no vento
+
+I am desperate for a touch of heaven
+-Estou desesperado pelo toque do céu
+
+
+
+
+
+
+
+
 Substantivos:
 
 Moments: Momentos
-Presence: PresenÃ§a
-Noise: RuÃ­doP
+Presence: Presença
+Noise: Ruí­do
 Thing: Coisa
 Love: Amor
 Fire: Fogo
 Evening: Noite
-Breath: RespiraÃ§Ã£o
+Breath: Respiração
 Soul: Alma
 Life: Vida
 Bones: Ossos
-Hesitation: HesitaÃ§Ã£o
-Affection: AfeiÃ§Ã£o
+Hesitation: Hesitação
+Affection: Afeição
 Voice: Voz
 Desire: Desejo
 Touch: Toque
@@ -31,7 +169,7 @@ Surrender: Render-se
 Be: Ser/Estar
 Undone: Desfeito
 Open: Abrir
-Throw: LanÃ§ar
+Throw: Lançar
 Do: Fazer
 Can: Poder
 Say: Dizer
@@ -40,27 +178,31 @@ Adjetivos:
 New: Novo
 Deeper: Mais profundo
 Desperate: Desesperado
-AdvÃ©rbios:
+
+Advérbios:
 
 Still: Ainda
 Now: Agora
 Pronomes:
 
 I: Eu
-You: VocÃª
+You: Você
 Your: Seu/sua
 Me: Meu/mim
-ConjunÃ§Ãµes:
+
+Conjugações:
 
 And: E
-So: EntÃ£o, assim
-PreposiÃ§Ãµes:
+So: Então, assim
+
+Preposições:
 
 Of: De
 Within: Dentro
-By: Por, atravÃ©s de
+By: Por, através de
 In: Em
-InterjeiÃ§Ãµes:
+
+Interjeições:
 
 Oh: Ah, oh
 Yeah: Sim, yeah
@@ -71,11 +213,11 @@ Quantidade de palavras encontradas em cada classe gramatical:
 Substantivos: 17 palavras
 Verbos: 17 palavras
 Adjetivos: 3 palavras
-AdvÃ©rbios: 2 palavras
+Advérbios: 2 palavras
 Pronomes: 4 palavras
-ConjunÃ§Ãµes: 2 palavras
-PreposiÃ§Ãµes: 4 palavras
-InterjeiÃ§Ãµes: 7 palavras
+Conjunções: 2 palavras
+Preposições: 4 palavras
+Interjeições: 7 palavras
 
 
 
