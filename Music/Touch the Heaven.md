@@ -2,7 +2,7 @@
 
 ## David Funk 
 
-[Substantives](#substantivos) | [Verbs](#verbos) | [Adjectives](#adjetivos) | [Adverbs](#advérbios) |  [pronouns](#pronomes) | [conjugations](#conjugações) | [prepositions](#preposições)
+[Substantives](#substantivos) | [Verbs](#verbos) | [Adjectives](#adjetivos) | [Adverbs](#advérbios) |  [pronouns](#pronomes) | [conjugations](#conjugações) | [prepositions](#preposições) | [Interjections](#Interjeições) |  [Frases](#Frases)  | [Perguntas](#perguntas) 
 
 
 
@@ -354,7 +354,7 @@ Interjeições: 7 palavras
 
 
 
-### frases:
+### Frases:
 
 I love the moments when I can still feel Your presence.
 
@@ -428,7 +428,7 @@ In every situation, I try to find the positive.
 
 
 
-#### perguntas:
+### Perguntas:
 
 What are some moments you cherish the most in your life?
 
