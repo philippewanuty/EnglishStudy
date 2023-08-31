@@ -1,14 +1,14 @@
 ##	Here as in heaven 
 
-### Elevation Worsip
+### Elevation Worship
+
+[Substantives](#substantivos) | [Verbs](#verbos) | [Adjectives](#adjetivos) | [Adverbs](#advérbios) |  [pronouns](#pronomes) | [conjugations](#conjugações) | [prepositions](#preposições) | [Interjections](#Interjeições) |  [Frases](#Frases)  | [Perguntas](#perguntas) 
 
 
 
 
 
-
-
-Substantivos:
+### Substantivos:
 
 atmosphere (atmosfera)
 Spirit (Espírito)
@@ -27,7 +27,8 @@ kingdom (reino)
 miracle (milagre)
 despite (apesar)
 plesant (agradável)
-Verbos:
+
+### Verbos:
 
 is (é)
 changing (mudando)
@@ -43,11 +44,12 @@ sweep (varra) *
 come (venha)
 happen (acontecer)
 
-Adjetivos:
+### Adjetivos:
 
 changing (mudando)
 fresh (fresco)
-Advérbios:
+
+### Advérbios:
 
 now (agora)
 all (todo)
@@ -55,26 +57,26 @@ around (ao redor)
 here (aqui)
 tonight (esta noite)
 
-Conjunções:
+### Conjunções:
 
 that (que)
 as (como)
 
-Pronomes:
+### Pronomes:
 
 our (nosso)
 Your (seu)
 You're (você é)
 us (nós)
 
-Preposições:
+### Preposições:
 
 in (em)
 with (com)
 by (por)
 on (em)
 
-Interjeições:
+### Interjeições:
 
 oh (ah)
 
