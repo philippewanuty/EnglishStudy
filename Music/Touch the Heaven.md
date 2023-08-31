@@ -354,29 +354,53 @@ Interjeições: 7 palavras
 
 ### frases:
 
-I love the moments when I can still feel Your presence.
+**I love the moments when I can still feel Your presence.**
 
-The noise of the city can be overwhelming sometimes.
+*Eu amo os momentos quando eu ainda posso sentir a sua presença*
 
-That thing you said really touched my heart.
+**The noise of the city can be overwhelming sometimes.**
 
-Love is the most beautiful thing in life.
+*O barulho da cidade pode ser insuportável as vezes*
 
-The fire in the fireplace made the evening cozy.
+**That thing you said really touched my heart.**
 
-Take a deep breath and relax.
+*aquilo que voce falou realmente tocou meu coração*
 
-The soul is the essence of who we are.
+**Love is the most beautiful thing in life.**
 
-Life is full of ups and downs.
+*O amor é a coisa mais bonita na vida*
 
-My bones ache after a long day of work.
+**The fire in the fireplace made the evening cozy.**
 
-Hesitation can sometimes hold us back from our dreams.
+*O fogo  na lareira faz a noite mais confortável*
 
-Affection is important in any relationship.
+**Take a deep breath and relax.**
 
-Her voice was soothing and calming.
+*Respire fundo e relaxe*
+
+**The soul is the essence of who we are.**
+
+*A alma é a essencia de quem nós somos*
+
+**Life is full of ups and downs.**
+
+*A vida é cheia de altos e baixos*
+
+**My bones ache after a long day of work.**
+
+*Meus ossos doem depois de um longo dia de trabalho*
+
+**Hesitation can sometimes hold us back from our dreams.**
+
+*Hesitação pode as vezes nos impedir de realizar nossos sonhos*
+
+**Affection is important in any relationship.**
+
+*Carinho é importante em qualquer relacionamento*
+
+**Her voice was soothing and calming.**
+
+*A voz dela era calma e suave*
 
 My desire is to travel the world and experience new things.
 
