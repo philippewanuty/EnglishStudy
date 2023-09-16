@@ -404,51 +404,97 @@ Interjeições: 7 palavras
 
 *A voz dela era calma e suave*
 
-My desire is to travel the world and experience new things.
+**My desire is to travel the world and experience new things.**
 
-The touch of his hand sent shivers down my spine.
+*Meu desejo é viajar o mundo e conhecer novas coisas*
 
-The wind was blowing fiercely outside.
+**The touch of his hand sent shivers down my spine.**
 
-Please pay attention to what I'm saying.
+*O toque de sua mão causou arrepios na minha espinha*
 
-My heart is full of love for you.
+**The wind was blowing fiercely outside.**
 
-Jesus is the way, the truth, and the life.
+*O vento está soprando fortemente la fora*
 
-I will surrender all my worries and fears to God.
+**Please pay attention to what I'm saying.**
 
-She was undone by the surprise proposal.
+*Porfavor, preste atenção para o que eu estou dizendo*
 
-Open the window and let some fresh air in.
+**My heart is full of love for you.**
 
-I will throw away anything that doesn't bring me joy.
+*Meu coração está cheio de amor por você*
 
-I can't say for sure if I will be able to come to the party.
+**Jesus is the way, the truth, and the life.**
 
-I want to be within Your love always.
+*Jesus é o caminho, a verdade e a vida*
 
-Do your best in everything you do.
+**I will surrender all my worries and fears to God.**
 
-I have a lot of work to do today.
+*Eu vou render todas as minhas preocupações e medos para Deus*
 
-The new year brings new opportunities.
+**She was undone by the surprise proposal.**
 
-I want to know You deeper, Lord.
+*Ela foi desfeita pela proposta surpresa.*
 
-She was desperate for some peace and quiet.
+**Open the window and let some fresh air in.**
 
-Your love is the sweetest thing I've ever known.
+*Abra a janela e deixe o ar fresco entrar*
 
-I still miss my best friend who moved away.
+**I will throw away anything that doesn't bring me joy.**
 
-I will listen to your advice and consider it carefully.
+*Eu vou lançar fora qualquer coisa que não me traga alegria*
 
-I know the importance of having a good work-life balance.
+**I can't say for sure if I will be able to come to the party.**
 
-The attention to detail in his work is impressive.
+*Eu não posso dizer com certeza se eu vou estar disponível para ir a festa*
 
-In every situation, I try to find the positive.
+**I want to be within Your love always.**
+
+*eu quero estar dentro do seu amor sempre*
+
+**Do your best in everything you do.**
+
+*Dê o seu melhor em tudo que fizer*
+
+**I have a lot of work to do today.**
+
+*Eu tenho muito trabalho a fazer hoje*
+
+**The new year brings new opportunities.**
+
+*O novo ano trás novas oportunidades*
+
+**I want to know You deeper, Lord.**
+
+*Eu quero te conhecer profundamente, Senhor*
+
+**She was desperate for some peace and quiet.**
+
+*Ela estava desesperada por um pouco de calma e paz*
+
+**Your love is the sweetest thing I've ever known.**
+
+*Seu amor é a coisa mais doce que eu já conheci*
+
+**I still miss my best friend who moved away.**
+
+*Eu ainda sinto falta do meu melhor amigo que se mudou*
+
+**I will listen to your advice and consider it carefully.**
+
+*Eu vou escutar o seu conselho e considera-lo cuidadosamente*
+
+**I know the importance of having a good work-life balance.**
+
+*Eu sei a importancia de ter um bom equilíbrio entre vida e trabalho*
+
+**The attention to detail in his work is impressive.**
+
+*A atencção aos detalhes no trabalho dele é impressionante*
+
+**In every situation, I try to find the positive.**
+
+*Em toda situação, eu tento encontrar o lado positivo*
 
 
 
